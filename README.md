@@ -238,11 +238,12 @@ There are some issues in the output of GDB. `python-gdb-mi` tries to fix
 them implementing some minor changes in the GDB's output as workarounds.
 
 See the issues and the implemented fixes in the [workarounds
-doctest](https://bad-address.github.io/python-gdb-mi/workarounds)
+page](https://bad-address.github.io/python-gdb-mi/workarounds)
 
 ## Hacking/Contributing
 
-Go ahead! Clone the repository, do a small fix/enhancement, run `make test` to
-ensure that everything is working as expected and then propose your Pull Request!
-
-
+Go ahead! Clone the repository, do a small fix/enhancement, run `make deps-dev`
+to install the development dependencies including the test engine
+[byexample](https://byexamples.github.io), then run `make test` to
+ensure that everything is working as expected and finally
+propose your Pull Request!
