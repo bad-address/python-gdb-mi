@@ -3,10 +3,6 @@ Check that we have byexample installed first
 $ hash byexample                                    # byexample: +fail-fast
 -->
 
-[![Build Status](https://travis-ci.org/hydra-dbg/python-gdb-mi.svg?branch=master)](https://travis-ci.org/hydra-dbg/python-gdb-mi)
-
-# Python GDB MI Parser
-
 [MI](https://sourceware.org/gdb/onlinedocs/gdb/GDB_002fMI.html) or
 Machine Interface is the new interface to interact with GDB, the GNU Debugger,
 from another program.

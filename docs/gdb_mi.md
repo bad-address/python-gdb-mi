@@ -51,7 +51,7 @@ the encoding yourself:
 True
 
 >>> t
-'fooo'
+b'fooo'
 ```
 
 Note that the c-string expects as a valid input a string like in C,

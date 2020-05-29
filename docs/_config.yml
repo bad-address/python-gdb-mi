@@ -1,0 +1,9 @@
+theme: jekyll-theme-architect
+title: python-gdb-mi
+description: GDB's Machine Interface Parser
+github:
+    owner_name: Martin Di Paola
+    owner_url: https://github.com/eldipa
+    repository_name: python-gdb-mi
+    repository_url: https://github.com/bad-address/python-gdb-mi
+uprefix: python-gdb-mi
