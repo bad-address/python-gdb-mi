@@ -1,4 +1,4 @@
-theme: jekyll-theme-hacker
+theme: jekyll-theme-architect
 title: python-gdb-mi
 description: GDB's Machine Interface Parser
 github:
