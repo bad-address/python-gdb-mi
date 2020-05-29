@@ -237,7 +237,8 @@ You will find the `python-gdb-mi` package at [PyPI](https://pypi.python.org/pypi
 There are some issues in the output of GDB. `python-gdb-mi` tries to fix
 them implementing some minor changes in the GDB's output as workarounds.
 
-See the issues and the implemented fixes in the [workarounds doctest](regress/workarounds.rst)
+See the issues and the implemented fixes in the [workarounds
+doctest](https://bad-address.github.io/python-gdb-mi/workarounds)
 
 ## Hacking/Contributing
 
